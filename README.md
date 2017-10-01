@@ -1,2 +1,3 @@
 # coral
- This is the first library of little coral
+This is my first repository
+My English is very poor
